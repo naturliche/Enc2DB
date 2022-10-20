@@ -14,7 +14,7 @@ Within the system we present a micro-benchmarking test and self-adaptive mode sw
 
 -----
 
-![image-20221020001640668](image-20221020001640668.png)
+![image-20221020001640668](System Architecture.png)
 
 **EDL Definition of UDFs:**
 
